@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Cosmo Deep</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="cosmo_deep">Cosmo Deep</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="feeds">Feeds</string>
+    <string name="about_us">About Us</string>
+    <string name="explr_mars">Explr. Mars</string>
+    <string name="app_description"><i>This app helps you to discover the stunning images and few interesting informations of space from NASA/JPL and planet Mars</i> \n \n \u25A0 <b>App Features:</b> \n \u25CF Consumed NASA Api to show data. \n \u25CF Used beautiful animations. \n \u25CF Used ambient background music. \n \u25CF Used MVVM, Live Data, Coroutines. \n \n \n \u25A0 <b>Developer Information:</b> \n \n <b>Name:</b> Rajdeep Singh \n \n <b>Student Id:</b> 1115120 \n \n <b>Name:</b> Raman Singh \n \n <b>Student Id:</b> 1114562 \n \n <b>Name:</b> Rajan Gaire \n \n <b>Student Id:</b> 1111128 \n \n <b>Assignment:</b> INFO–6130–02–23W - Team 7 </string>
+    <string name="about_app">About App:</string>
+</resources>
